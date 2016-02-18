@@ -1,4 +1,4 @@
-# Products Store (products-store)
+# Products Store (productsstore)
 Example Product Store.
 
 ## Technology
